@@ -16,7 +16,6 @@ Public Class Form1
     Private isDragging As Boolean = False
     Private startPoint As Point
     Public Sub New()
-        ' Initialize components
         InitializeComponent()
         InitializeTextEditor()
     End Sub
@@ -26,38 +25,31 @@ Public Class Form1
         Me.btnSave = New Button()
         Me.elementHost = New ElementHost()
 
-        ' Button Open
         Me.btnOpen.Location = New Point(10, 10)
         Me.btnOpen.Size = New Size(100, 30)
         Me.btnOpen.Text = "Open"
 
-        ' Button Save
         Me.btnSave.Location = New Point(120, 10)
         Me.btnSave.Size = New Size(100, 30)
         Me.btnSave.Text = "Save"
 
-        ' ElementHost settings
         Me.elementHost.Location = New Point(10, 50)
         Me.elementHost.Size = New Size(600, 400)
 
-        ' Adding controls to the form
         Me.Controls.Add(Me.btnOpen)
         Me.Controls.Add(Me.btnSave)
         Me.Controls.Add(Me.elementHost)
 
-        ' Form settings
-        Me.Text = "AvalonEdit Example"
+        Me.Text = "AvalonEdit thingy Sooper Dooper Editor"
         Me.Size = New Size(640, 480)
     End Sub
 
     Private Sub InitializeTextEditor()
-        ' Create and configure the TextEditor
         textEditor = New AvalonEdit.TextEditor()
-        textEditor.SyntaxHighlighting = HighlightingManager.Instance.GetDefinition("C#") ' or "VB"
+        textEditor.SyntaxHighlighting = HighlightingManager.Instance.GetDefinition("C#") ' To Be Edited Ofc
         textEditor.ShowLineNumbers = True
         textEditor.WordWrap = True
 
-        ' Add TextEditor to the ElementHost
         elementHost.Child = textEditor
     End Sub
 
@@ -69,7 +61,7 @@ Public Class Form1
         Dim saveFileDialog As New SaveFileDialog()
 
         saveFileDialog.Filter = "Text Files (*.txt)|*.txt|All Files (*.*)|*.*"
-        saveFileDialog.Title = "Basic Editor - Save File"
+        saveFileDialog.Title = "Sooper Dooper Editor - Save File"
 
         If saveFileDialog.ShowDialog() = DialogResult.OK Then
             Dim filePath As String = saveFileDialog.FileName
@@ -85,7 +77,7 @@ Public Class Form1
         Dim openFileDialog As New OpenFileDialog()
 
         openFileDialog.Filter = "Text Files (*.txt)|*.txt|All Files (*.*)|*.*"
-        openFileDialog.Title = "Basic Editor - Open File"
+        openFileDialog.Title = "Sooper Dooper Editor - Open File"
 
         If openFileDialog.ShowDialog() = DialogResult.OK Then
             Dim filePath As String = openFileDialog.FileName
