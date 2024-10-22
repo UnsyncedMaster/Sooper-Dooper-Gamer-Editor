@@ -1,0 +1,20 @@
+C:\Users\super\source\repos\Super Dooper Gamer\Super Dooper Gamer\obj\Debug\net8.0-windows\Super Dooper Gamer.vbproj.AssemblyReference.cache
+C:\Users\super\source\repos\Super Dooper Gamer\Super Dooper Gamer\obj\Debug\net8.0-windows\Super_Dooper_Gamer.Form1.resources
+C:\Users\super\source\repos\Super Dooper Gamer\Super Dooper Gamer\obj\Debug\net8.0-windows\Super Dooper Gamer.vbproj.GenerateResource.cache
+C:\Users\super\source\repos\Super Dooper Gamer\Super Dooper Gamer\obj\Debug\net8.0-windows\Super Dooper Gamer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\source\repos\Super Dooper Gamer\Super Dooper Gamer\obj\Debug\net8.0-windows\Super Dooper Gamer.AssemblyInfoInputs.cache
+C:\Users\super\source\repos\Super Dooper Gamer\Super Dooper Gamer\obj\Debug\net8.0-windows\Super Dooper Gamer.AssemblyInfo.vb
+C:\Users\super\source\repos\Super Dooper Gamer\Super Dooper Gamer\obj\Debug\net8.0-windows\Super Dooper Gamer.vbproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\Super Dooper Gamer\Super Dooper Gamer\bin\Debug\net8.0-windows\Super Dooper Gamer.exe
+C:\Users\super\source\repos\Super Dooper Gamer\Super Dooper Gamer\bin\Debug\net8.0-windows\Super Dooper Gamer.deps.json
+C:\Users\super\source\repos\Super Dooper Gamer\Super Dooper Gamer\bin\Debug\net8.0-windows\Super Dooper Gamer.runtimeconfig.json
+C:\Users\super\source\repos\Super Dooper Gamer\Super Dooper Gamer\bin\Debug\net8.0-windows\Super Dooper Gamer.dll
+C:\Users\super\source\repos\Super Dooper Gamer\Super Dooper Gamer\bin\Debug\net8.0-windows\Super Dooper Gamer.pdb
+C:\Users\super\source\repos\Super Dooper Gamer\Super Dooper Gamer\bin\Debug\net8.0-windows\ICSharpCode.AvalonEdit.dll
+C:\Users\super\source\repos\Super Dooper Gamer\Super Dooper Gamer\bin\Debug\net8.0-windows\FastColoredTextBox.dll
+C:\Users\super\source\repos\Super Dooper Gamer\Super Dooper Gamer\obj\Debug\net8.0-windows\Super Do.13B6F46F.Up2Date
+C:\Users\super\source\repos\Super Dooper Gamer\Super Dooper Gamer\obj\Debug\net8.0-windows\Super Dooper Gamer.dll
+C:\Users\super\source\repos\Super Dooper Gamer\Super Dooper Gamer\obj\Debug\net8.0-windows\refint\Super Dooper Gamer.dll
+C:\Users\super\source\repos\Super Dooper Gamer\Super Dooper Gamer\obj\Debug\net8.0-windows\Super Dooper Gamer.pdb
+C:\Users\super\source\repos\Super Dooper Gamer\Super Dooper Gamer\obj\Debug\net8.0-windows\Super Dooper Gamer.genruntimeconfig.cache
+C:\Users\super\source\repos\Super Dooper Gamer\Super Dooper Gamer\obj\Debug\net8.0-windows\ref\Super Dooper Gamer.dll
